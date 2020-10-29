@@ -1,14 +1,6 @@
 ### Hi there 👋
 
 <img src='http://scontent.fsgn2-6.fna.fbcdn.net/v/t1.0-9/89375081_1908876422581366_2007239681451753472_o.jpg?_nc_cat=100&ccb=2&_nc_sid=e3f864&_nc_ohc=PMLCSnafNlUAX8vxDp8&_nc_ht=scontent.fsgn2-6.fna&oh=d97e80451f457fd574e964a891d55c18&oe=5FBEE7ED'>
-<style>
-img {
-    max-width: 100%;
-    width: 100% !important;
-    max-height: 500px !important;
-    object-fit: cover;
-    }
-</style>
 🤜 大きな野望は偉大な人を育てる。🤛
 
 - 🔭 I’m currently working on ...
