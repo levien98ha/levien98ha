@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+🤜 大きな野望は偉大な人を育てる。🤛
 
-- 🔭 I’m currently working on ...VNEXT
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...Angular, Java
 - 👯 I’m looking to collaborate on ...Angular, Java
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[Facebook](hhtp://fb.com/Pepper.Mint.9798/)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 🎨 I'm awaiting your css....🌈
 -->
 
 #### Hello World! :wave:
