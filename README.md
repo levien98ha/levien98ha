@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on ...Angular, Java
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...[Facebook](hhtp://fb.com/Pepper.Mint.9798/)
+- 📫 How to reach me: ...[Facebook](http://fb.com/Pepper.Mint.9798/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 🎨 I'm awaiting your css....🌈
 -->
