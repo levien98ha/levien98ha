@@ -3,8 +3,8 @@
 🤜 大きな野望は偉大な人を育てる。🤛
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...Angular, Java, NodeJs
-- 👯 I’m looking to collaborate on ...Angular, Java, NodeJs
+- 🌱 I’m currently learning ...React, Next, Vue, Nuxt
+- 👯 I’m looking to collaborate on ...React, Next, Vue, Nuxt
 - 💬 Ask me about ...
 - 📫 How to reach me: ...[Facebook](http://fb.com/Pepper.Mint.9798/)
 - 😄 Pronouns: ...
